@@ -6,6 +6,9 @@ int addition(int a,int b){
     return (a+b);
 
 }
+double multiplication(double d,int h){
+    return(d*h);
+}
 int main(){
     int a,b;
     cin>>a>>b;
