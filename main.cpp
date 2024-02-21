@@ -1,7 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
+double division2(int sum){
+    return (sum/2);}
 int addition(int a,int b){
     return (a+b);
+
 }
 int main(){
     int a,b;
