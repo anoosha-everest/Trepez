@@ -1,8 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-double division2(int sum){
-    return (sum/2);
-}
 int main(){
     int a,b;
     cin>>a>>b;
