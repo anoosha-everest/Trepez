@@ -3,6 +3,9 @@ using namespace std;
 int addition(int a,int b){
     return (a+b);
 }
+double division2(int sum){
+    return(sum/2);
+}
 double multiplication(double d,int h){
     return(d*h);
 }
